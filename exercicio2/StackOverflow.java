@@ -7,7 +7,7 @@ public class StackOverflow {
 		RecursivaInfinita(1);
 	}
 	//criando o overflow
-	public static int RecursivaInfinita(int valor){
+	public static int recursivaInfinita(int valor){
 		//criando um loop
 		return valor + RecursivaInfinita(valor);
 	}

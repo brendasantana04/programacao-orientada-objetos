@@ -9,7 +9,7 @@ public class Soma {
 		Somatorio();
 	}
 	
-	public static double Somatorio () {
+	public static double somatorio () {
 		Scanner sc = new Scanner(System.in); //importando o scanner para leitura
 		double valorA = sc.nextDouble();
 		double valorB = sc.nextDouble();
